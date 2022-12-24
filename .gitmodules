@@ -5,3 +5,6 @@
 [submodule "_gallery"]
 	path = _gallery
 	url = https://github.com/Githubio2022/_gallery
+[submodule "_quotes"]
+	path = _quotes
+	url = https://github.com/Githubio2022/_quotes
