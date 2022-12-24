@@ -1,2 +1,7 @@
 [submodule "images"]
+	path = images
+	url = https://github.com/Githubio2022/images
 
+[submodule "_gallery"]
+	path = _gallery
+	url = https://github.com/Githubio2022/_gallery
